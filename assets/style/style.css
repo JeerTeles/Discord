@@ -74,13 +74,77 @@ p#title-header-down {
 }
 
 section#content-01 {
-    height: 700px;
+    height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 96px;
 }
 
+section#content-02 {
+    background-color: #F6F6F6;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 96px;
+}
+
+section#content-03 {
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 96px;
+}
+
+h1#section-content-04 {
+    background-color: #F6F6F6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #23272A;
+    padding-top: 50px;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+   
+}
+
+p#sectio-content-04 {
+    background-color: #F6F6F6;
+    color: #23272A;
+    font-family: open, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: center;
+}
+
+section#img-chamada-de-video {
+    background-color: #F6F6F6;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 96px;
+}
+
+img#section-chamada-de-video {
+    width: 884px;
+    height: 588px;
+}
+
+div#fim {
+    display: flex;
+    background-color: #00000081;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    background-color: #00000081;
+    justify-content: center;
+    gap: 10px;
+}
 
 
 
